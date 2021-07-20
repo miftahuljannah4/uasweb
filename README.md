@@ -11,7 +11,7 @@
 http://54.254.248.107/ci-miftah/public/
 
 # Tampilan index.php atau UI
-
+<img src="1.jpeg" img>
 
 # Tampilan CRUD
 
