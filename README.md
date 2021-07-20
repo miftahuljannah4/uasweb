@@ -41,4 +41,4 @@ http://54.254.248.107/ci-miftah/public/
 <img src="9.jpeg" img>
 
 # Tampilan Panggilan Antrian di Loket
-<img src="10 .jpeg" img>
+<img src="10.jpeg" img>
